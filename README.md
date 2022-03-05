@@ -1,7 +1,7 @@
 # my_remote_control
   
 As remote control of CL8D-5.0(アイリスオーヤマ) is troublesome to push the button twice, I made this.  
-Use Raspberry Pi Pico.  
+Raspberry Pi Pico is used.  
 ```cmd
 rem mkdir ..\build && cd ..\build
 cmake -G "MinGW Makefiles" ..
