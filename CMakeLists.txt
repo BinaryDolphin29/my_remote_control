@@ -1,0 +1,3 @@
+add_executable(my_remote_control my_remote_control.c)
+target_link_libraries(my_remote_control pico_stdlib hardware_pwm)
+pico_add_extra_outputs(my_remote_control)
