@@ -1,6 +1,6 @@
 # my_remote_control
   
-As remote control of CL8D-5.0(アイリスオーヤマ) is troublesome to push the button twice, I made this.  
+As remote control of CL8D-5.0(アイリスオーヤマ) is troublesome to push the button twice for turn off the light, I made this.  
 Raspberry Pi Pico is used.  
 ```cmd
 rem mkdir ..\build && cd ..\build
